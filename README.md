@@ -10,7 +10,7 @@ I'm Wasit Ali and this is my 4th project on HTML and CSS.
 ![](./assets/2022-08-10-21-52-00.png)
 `note:` please make sure the preview screen is `1920 x 1080` and the website is for dektop view only.
 
-🚀 [Live Preview](https://guileless-cobbler-ea9cee.netlify.app/)
+🚀 [Live Preview](https://live-class-project-04-rust.vercel.app/)
 
 ## 🛠️ What I have learned in this project?
 
